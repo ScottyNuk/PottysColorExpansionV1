@@ -2,6 +2,7 @@ package net.potty.colorexp.block;
 
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
+import net.minecraft.block.CarpetBlock;
 import net.minecraft.block.MapColor;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -24,6 +25,7 @@ public class ColorBlocks {
 
 
     public static final Block LIGHT_RED_WOOL = registerBlock("light_red_wool", new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.WOOL)));
+    public static final Block LIGHT_RED_CARPET = registerBlock("light_red_carpet", new CarpetBlock(AbstractBlock.Settings.create().sounds(BlockSoundGroup.WOOL).mapColor(MapColor.WHITE).strength(0.1F).nonOpaque()));
 
 
 
@@ -31,7 +33,6 @@ public class ColorBlocks {
 
     public static final Block LIGHT_RED_GLASS = registerBlock("light_red_glass",
             new CustomGlassBlock(AbstractBlock.Settings.create().sounds(BlockSoundGroup.GLASS).nonOpaque().mapColor(MapColor.PINK)));
-
     public static final Block LIGHT_RED_GLASS_PANE = registerBlock("light_red_glass_pane",
             new CustomGlassPaneBlock());
 

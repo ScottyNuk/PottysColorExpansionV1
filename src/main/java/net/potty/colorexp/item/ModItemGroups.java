@@ -49,7 +49,10 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ColorBlocks.LIGHT_RED_CONCRETE);
                         entries.add(ColorBlocks.LIGHT_RED_CONCRETE_POWDER);
+
                         entries.add(ColorBlocks.LIGHT_RED_WOOL);
+                        entries.add(ColorBlocks.LIGHT_RED_CARPET);
+
                         entries.add(ColorBlocks.LIGHT_RED_GLASS);
                         entries.add(ColorBlocks.LIGHT_RED_GLASS_PANE);
                     }).build());

@@ -18,8 +18,8 @@ public class ModModelProvider extends FabricModelProvider {
 
         blockStateModelGenerator.registerSimpleCubeAll(ColorBlocks.LIGHT_RED_CONCRETE);
         blockStateModelGenerator.registerSimpleCubeAll(ColorBlocks.LIGHT_RED_CONCRETE_POWDER);
-        blockStateModelGenerator.registerSimpleCubeAll(ColorBlocks.LIGHT_RED_WOOL);
         blockStateModelGenerator.registerGlassPane(ColorBlocks.LIGHT_RED_GLASS, ColorBlocks.LIGHT_RED_GLASS_PANE);
+        blockStateModelGenerator.registerWoolAndCarpet(ColorBlocks.LIGHT_RED_WOOL, ColorBlocks.LIGHT_RED_CARPET);
 
     }
 
