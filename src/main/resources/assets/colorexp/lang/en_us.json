@@ -1,0 +1,33 @@
+{
+  "item.colorexp.light_red_dye": "Light Red Dye",
+  "item.colorexp.dark_red_dye": "Dark Red Dye",
+  "item.colorexp.light_orange_dye": "Light Orange Dye",
+  "item.colorexp.kumquat_orange_dye": "Kumquat Orange Dye",
+  "item.colorexp.light_yellow_dye": "Light Yellow Dye",
+  "item.colorexp.light_lime_green_dye": "Light Lime Green Dye",
+  "item.colorexp.rich_lawn_lime_green_dye": "Rich Lawn Lime Green Dye",
+  "item.colorexp.light_green_dye": "Light Green Dye",
+  "item.colorexp.muted_irish_green_dye": "Muted Irish Green Dye",
+  "item.colorexp.lime_turquoise_dye": "Lime Turquoise Dye",
+  "item.colorexp.baby_blue_dye": "Baby Blue Dye",
+  "item.colorexp.blue_periwinkle_dye": "Blue Periwinkle Dye",
+  "item.colorexp.purpureus_magenta_dye": "Purpureus Magenta Dye",
+  "item.colorexp.light_pink_dye": "Light Pink Dye",
+  "item.colorexp.hot_pink_dye": "Hot Pink Dye",
+  "item.colorexp.dark_blue_dye": "Dark Blue Dye",
+  "item.colorexp.light_purple_dye": "Light Purple Dye",
+  "item.colorexp.ender_green_dye": "Ender Green Dye",
+  "item.colorexp.berry_red_dye": "Berry Red Dye",
+  "item.colorexp.dark_magenta_dye": "Dark Magenta Dye",
+  "item.colorexp.light_brown_dye": "Light Brown Dye",
+  "item.colorexp.dark_brown_dye": "Dark Brown Dye",
+
+  "block.colorexp.light_red_concrete": "Light Red Concrete",
+  "block.colorexp.light_red_concrete_powder": "Light Red Concrete Powder",
+  "block.colorexp.light_red_wool": "Light Red Wool",
+  "block.colorexp.light_red_glass": "Light Red Glass",
+  "block.colorexp.light_red_glass_pane": "Light Red Glass Pane",
+
+  "itemgroup.colorexp.dyes": "Dyes",
+  "itemgroup.colorexp.colored_blocks": "Colored Blocks"
+}

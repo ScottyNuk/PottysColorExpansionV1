@@ -1,0 +1,5 @@
+// 1.21.1	2025-05-30T16:20:21.6888304	PottysColorExpansionV1/Block Loot Tables
+7f5e4064c95e18134b147dace47c3a0bcc041143 data\colorexp\loot_table\blocks\light_red_glass.json
+fc35d2efb293c3e77d5294e1245015d6aeae0fb2 data\colorexp\loot_table\blocks\light_red_concrete_powder.json
+e06f05640a1c56d1cb621bfa4a57cb75578c7f76 data\colorexp\loot_table\blocks\light_red_concrete.json
+bf4ee92b1ccd570f38b65915aa2ff88bdeec3d8c data\colorexp\loot_table\blocks\light_red_glass_pane.json

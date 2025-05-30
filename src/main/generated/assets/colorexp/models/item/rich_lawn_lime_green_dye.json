@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "colorexp:item/rich_lawn_lime_green_dye"
+  }
+}

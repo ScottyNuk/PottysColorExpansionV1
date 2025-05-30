@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "colorexp:item/muted_irish_green_dye"
+  }
+}
